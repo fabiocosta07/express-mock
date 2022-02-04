@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/fabiocosta07/express-mock#readme",
   "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
     "express": "^4.17.2"
   }
 }
